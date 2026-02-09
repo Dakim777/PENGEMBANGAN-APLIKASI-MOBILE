@@ -3,9 +3,9 @@
 Repository ini berisi hasil pengerjaan tugas praktikum Pemrograman Mobile untuk materi pengenalan Kotlin Multiplatform (Compose Multiplatform).
 
 ##  Identitas Mahasiswa
-* **Nama:** [TULIS NAMA LENGKAP KAMU DISINI]
-* **NIM:** [TULIS NIM KAMU DISINI]
-* **Kelas:** [Tulis Kelas, misal: TI-A]
+* **Nama:** [M.Daffa Hakim Matondang]
+* **NIM:** [123140002]
+* **Kelas:** [PAM RA]
 
 ## Screenshot Hasil Run
 Berikut adalah tampilan aplikasi yang dijalankan di platform **Android / Desktop**:
